@@ -6,7 +6,7 @@ import Weatherinfo from './components/Weatherinfo';
 import Reloadapp from './components/Reloadapp';
 
 
-const WEATHER_API_KEY='b626d5e24312626195d2983562218bf1'
+const WEATHER_API_KEY='YOUR_API_KEY'
 const BASE_WEATHER_URL='https://api.openweathermap.org/data/2.5/weather?'
 
 export default function App() {
